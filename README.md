@@ -10,7 +10,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=Blackmagicknight&show_icons=true&include_all_commits=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=Blackmagicknight&show_icons=true)
 
 ### Programming Languages 🌐
 
